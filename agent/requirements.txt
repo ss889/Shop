@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langgraph
+langchain-anthropic
+anthropic
+playwright
+pydantic
+aiosqlite
+python-dotenv
